@@ -1,2 +1,2 @@
-# programas_disciplinas
-Programas de disciplinas lecionadas
+# Programas de disciplinas
+[Gustavo Bruno de Paula](https://gustavobrp.github.io/)
